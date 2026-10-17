@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
+I'm currently exploring ideas on using AI to build things for my personal life and for work to automate processes.
+
+I'm learning about AI, agents, microcontrollers, home labs, automation, metal working, woodworking, 3D printing.
+
+> **Personal motto**
+> 
+> Explore, Learn, and Make the world around you.
 <!--
 **ExploreLearnMake/ExploreLearnMake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
